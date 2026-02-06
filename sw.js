@@ -1,4 +1,4 @@
-const CACHE_NAME = 'twd-rate-v5'; // 更新版本號 v5
+const CACHE_NAME = 'twd-rate-v12'; // 更新版本號 v12
 const ASSETS = [
   './',
   './index.html',
