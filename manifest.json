@@ -1,6 +1,6 @@
 {
   "name": "TWD匯率換算",
-  "short_name": "TWD匯率",
+  "short_name": "TWDc",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1e3a8a",
